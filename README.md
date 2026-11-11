@@ -1,5 +1,3 @@
-# AI_Assignment_Reasoning_Agent
-
 REASONING AGENT - CSL7610 Assignment
 ====================================
 
